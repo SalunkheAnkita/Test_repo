@@ -16,7 +16,7 @@
                     <manifest>
 
                     <!-- give full qualified name of your main class-->
-                      <mainClass>com.javahungry.Demo</mainClass>
+                      <mainClass>com.mytest.program.Main</mainClass>
 
                     </manifest>
                   </archive>
