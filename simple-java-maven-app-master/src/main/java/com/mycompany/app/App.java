@@ -12,11 +12,15 @@ public class App
 
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
-        System.out.println("This is modified project");
     }
 
     private final String getMessage() {
         return message;
     }
+
+	private final String showMessage() {
+        return message;
+    }
+
 
 }
