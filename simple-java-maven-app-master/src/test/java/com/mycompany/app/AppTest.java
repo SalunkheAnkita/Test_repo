@@ -40,6 +40,11 @@ public class AppTest
         }
     }
 
+    @Test
+    public void testfun()
+    {
+    	
+    }
     @After
     public void cleanUpStreams() {
         System.setOut(null);
