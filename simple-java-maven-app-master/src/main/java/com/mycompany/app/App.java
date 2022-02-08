@@ -21,6 +21,9 @@ public class App
 	private final String showMessage() {
         return message;
     }
+ private final String printMessage() {
+        return message;
+    }
 
 
 }
